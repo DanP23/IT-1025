@@ -9,3 +9,6 @@ Filename: IT - 1025 Purpose of this file is to describe course: IT 1025 it conce
 
 ### Filename: Python.png
 ### python program that adds 2 variables stores them in a 3rd then outputs to user.
+
+### Filename: DanielPrattFlowerClass.pdf
+### Diagram of a flower object and its subsequent attributes and methods
