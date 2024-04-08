@@ -26,6 +26,12 @@ def main():
     flower2.grow()
     # # flower 2 callse method "bloom"
     flower2.bloom()
+    flower3 = Flower("tulip")
+     # flower 3 calls method "grow"
+    flower3.grow()
+    # # flower 3 callse method "bloom"
+    flower3.bloom()
+
 # condition to check all functions of program completed
 if __name__ == "__main__":
   main()
