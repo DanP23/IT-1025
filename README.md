@@ -12,3 +12,9 @@ Filename: IT - 1025 Purpose of this file is to describe course: IT 1025 it conce
 
 ### Filename: DanielPrattFlowerClass.pdf
 ### Diagram of a flower object and its subsequent attributes and methods
+
+### PythonOOP.png
+### PythoneOOP.png is a a screen shot of pre provided code with post development comments added
+
+### Flower.py
+### Flower.py is a python file of the working code with the comments added.
