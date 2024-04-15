@@ -18,3 +18,6 @@ Filename: IT - 1025 Purpose of this file is to describe course: IT 1025 it conce
 
 ### Flower.py
 ### Flower.py is a python file of the working code with the comments added along with the new flower object added.
+
+### NetworkDesign.png 
+### NetworkDesign.png is an image of a network design.
