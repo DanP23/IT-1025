@@ -21,3 +21,6 @@ Filename: IT - 1025 Purpose of this file is to describe course: IT 1025 it conce
 
 ### NetworkDesign.png 
 ### NetworkDesign.png is an image of a network design.
+
+### SQLQuery.png 
+### SQLQuery.png is a screen capture of a SQL prompt demonstrating products from a database in ascending order with a price under $100
