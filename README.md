@@ -24,3 +24,6 @@ Filename: IT - 1025 Purpose of this file is to describe course: IT 1025 it conce
 
 ### SQLQuery.png 
 ### SQLQuery.png is a screen capture of a SQL prompt demonstrating products from a database in ascending order with a price under $100
+
+### MyHtml.png
+### Myhtmle.png is a small example of a webpage in html utilizing the basic elements necessary.
